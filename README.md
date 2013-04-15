@@ -15,6 +15,9 @@ Changelog:
 - Fixed title, doh.
 - Centers window when opening to make viewing easier, also more professional.
 - Add fps counter in console.
+- Added TODO file in root.
+- Time for research on making an ocean!
+- 
  *Working on FPS Counter 13/50 lines complete*
 
 - collabgames
